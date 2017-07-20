@@ -1,0 +1,30 @@
+#+TITLE: Type Theory - Class 1
+<2017-07-20 Thu>
+
+
+* typed assembly languages
+* how do you argue a program works?
+
+  - you can think of every algo as a dynamical system operating within a state space
+  - google type-safety in haskell - can use for paper?
+  
+* safety vs progress
+* programming language
+
+  - "any program I write should be safe- according to some defn of safety"
+  - type safety is one way of ensuring safety
+  
+* safety in open systems
+* algorithhmic vs non-algo languages
+* so basically
+ 
+type-safety ensures your program will never violate the invariants you code
+into it??? is that so?
+* linear types???
+
+difference between linear types and immutability
+
+* advanced topics in type theory - Pierce
+* gradual typing???
+* subtyping???
+* formal logic and relation to type systems
