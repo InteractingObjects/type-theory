@@ -1,0 +1,9 @@
+#+TITLE: TAPL Chapter One
+#+AUTHOR: CielSubsystem
+
+
+* Formal Methods For Correctness
+
+  - Formal methods come up to ensure that a system behaves correctly according
+    to a given set of specifications
+  - Type systems are such a lightweight formal method

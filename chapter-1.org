@@ -1,0 +1,25 @@
+#+TITLE: TAPL Chapter One
+#+AUTHOR: CielSubsystem
+
+
+* Formal Methods For Correctness
+
+  - Formal methods come up to ensure that a system behaves correctly according
+    to a given set of specifications
+  - Type systems are such a lightweight formal method
+* Two Branches of Type Systems
+
+Progammatical and mathematical
+* What type systems can and cannot do
+
+  - Can ensure that certain behaviours do not take place
+  - Can ensure that run-time type errors do not take place
+  - To enforce modularity
+  - To prevent the integrity of user-defined abstractions
+* Safe Language
+
+  - Vague definition: "a safe language is one that protects its own
+    abstractions"
+  - Both statically and dynamically typed languages can be safe
+  - Safety not generally assured by static typing alone (eg: array bound checks
+    are runtime checks)
